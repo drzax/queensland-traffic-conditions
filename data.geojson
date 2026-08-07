@@ -190435,7 +190435,7 @@
           "local_government_area": "Livingstone Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-08-03T08:01:10.843457+10:00",
+        "last_updated": "2026-08-08T08:01:09.304883+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -238537,7 +238537,7 @@
           "local_government_area": "Bundaberg Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-08-05T14:02:43.635188+10:00",
+        "last_updated": "2026-08-08T08:00:59.534606+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -249093,7 +249093,7 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-08-08T05:51:25.201537+10:00",
+        "last_updated": "2026-08-08T08:00:00.339769+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -273292,7 +273292,7 @@
           "local_government_area": "Toowoomba Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-08-03T08:01:07.586779+10:00",
+        "last_updated": "2026-08-08T08:01:07.026146+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -326938,7 +326938,7 @@
           "local_government_area": "Moreton Bay Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-08-08T06:28:22.478797+10:00",
+        "last_updated": "2026-08-08T08:00:03.542938+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -327002,14 +327002,14 @@
           "local_government_area": "South Burnett Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-08-08T07:25:02.880177+10:00",
+        "last_updated": "2026-08-08T08:00:06.543029+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-08-08T07:48:31.5404325+10:00",
+  "published": "2026-08-08T08:17:22.0982129+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
