@@ -262152,7 +262152,7 @@
           "local_government_area": "Toowoomba Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-08-04T08:23:19.555989+10:00",
+        "last_updated": "2026-08-09T08:23:19.092923+10:00",
         "next_inspection": null,
         "web_link": "https://www.service.transport.qld.gov.au/ExcessMassExternal/PublicConditionReport.jsp",
         "alert_message": null
@@ -324945,7 +324945,7 @@
           "local_government_area": "Logan City",
           "district": "South Coast"
         },
-        "last_updated": "2026-08-09T04:21:31.260407+10:00",
+        "last_updated": "2026-08-09T08:18:59.355426+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -325009,7 +325009,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-08-09T05:38:25.581686+10:00",
+        "last_updated": "2026-08-09T08:53:26.442314+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -325178,11 +325178,11 @@
         "event_subtype": "Single vehicle",
         "event_due_to": null,
         "impact": {
-          "direction": "All directions",
+          "direction": "Both directions",
           "towards": null,
-          "impact_type": "Lanes affected",
-          "impact_subtype": "Lane or lanes reduced",
-          "delay": null
+          "impact_type": "Closures",
+          "impact_subtype": "Road closed to all traffic",
+          "delay": "Long delays expected"
         },
         "duration": {
           "start": "2026-08-09T06:32:00+10:00",
@@ -325190,9 +325190,9 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Medium",
+        "event_priority": "High",
         "description": "Near Lucky Springs Road",
-        "advice": "Proceed with caution",
+        "advice": "Emergency services are on scene/en-route",
         "information": null,
         "road_summary": {
           "road_name": "Gregory Developmental Road",
@@ -325201,7 +325201,7 @@
           "local_government_area": "Charters Towers Regional",
           "district": "Northern"
         },
-        "last_updated": "2026-08-09T06:35:08.252318+10:00",
+        "last_updated": "2026-08-09T08:29:29.396039+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -325464,7 +325464,7 @@
       }
     }
   ],
-  "published": "2026-08-09T07:56:22.2673316+10:00",
+  "published": "2026-08-09T08:53:27.839218+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
