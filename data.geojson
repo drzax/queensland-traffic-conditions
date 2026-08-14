@@ -175770,7 +175770,7 @@
           "local_government_area": "Gladstone Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-08-10T00:33:17.573887+10:00",
+        "last_updated": "2026-08-15T00:33:16.980334+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -210418,7 +210418,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-08-11T15:30:57.73878+10:00",
+        "last_updated": "2026-08-15T00:33:00.158493+10:00",
         "next_inspection": null,
         "web_link": "https://www.yoursay.edq.qld.gov.au/currumbin-eco-parkland",
         "alert_message": null
@@ -223526,7 +223526,7 @@
           "local_government_area": "Toowoomba Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-08-10T00:33:27.911088+10:00",
+        "last_updated": "2026-08-15T00:33:26.400358+10:00",
         "next_inspection": null,
         "web_link": "https://www.service.transport.qld.gov.au/ExcessMassExternal/PublicConditionReport.jsp",
         "alert_message": null
@@ -249360,7 +249360,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-08-10T00:33:22.467422+10:00",
+        "last_updated": "2026-08-15T00:33:21.919364+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -309770,7 +309770,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-08-14T23:05:31.47204+10:00",
+        "last_updated": "2026-08-15T00:56:26.059342+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -309823,8 +309823,8 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Low",
-        "description": "10 Kilometres south of Guthalungra.",
+        "event_priority": "Medium",
+        "description": "South of Glenore Road",
         "advice": "Avoid the area",
         "information": null,
         "road_summary": {
@@ -309834,7 +309834,7 @@
           "local_government_area": "Whitsunday Regional",
           "district": "Mackay/Whitsunday"
         },
-        "last_updated": "2026-08-15T00:28:08.320185+10:00",
+        "last_updated": "2026-08-15T00:34:08.224474+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -309905,7 +309905,7 @@
       }
     }
   ],
-  "published": "2026-08-15T00:28:10.0744212+10:00",
+  "published": "2026-08-15T00:56:27.3470346+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
