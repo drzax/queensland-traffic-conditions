@@ -304172,7 +304172,7 @@
         "event_subtype": "Adverse driving conditions",
         "event_due_to": null,
         "impact": {
-          "direction": "Eastbound",
+          "direction": "Both directions",
           "towards": "",
           "impact_type": "N/A",
           "impact_subtype": null,
@@ -304195,14 +304195,14 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-08-17T02:32:31.105893+10:00",
+        "last_updated": "2026-08-17T02:50:21.557707+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-08-17T02:32:32.3636894+10:00",
+  "published": "2026-08-17T02:50:22.7429698+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
