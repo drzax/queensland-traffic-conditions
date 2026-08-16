@@ -304238,9 +304238,9 @@
         "impact": {
           "direction": "Southbound",
           "towards": "Brisbane",
-          "impact_type": "Lanes affected",
-          "impact_subtype": "Lane or lanes reduced",
-          "delay": "No delays expected"
+          "impact_type": "Lanes blocked",
+          "impact_subtype": "Left lane blocked",
+          "delay": "Delays expected"
         },
         "duration": {
           "start": "2026-08-16T23:29:00+10:00",
@@ -304259,14 +304259,14 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-08-16T23:31:38.402733+10:00",
+        "last_updated": "2026-08-16T23:53:53.608944+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-08-16T23:31:39.8635389+10:00",
+  "published": "2026-08-16T23:53:55.7077972+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
