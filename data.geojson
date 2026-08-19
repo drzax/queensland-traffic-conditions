@@ -9911,7 +9911,7 @@
           "local_government_area": "Scenic Rim Regional",
           "district": "South Coast"
         },
-        "last_updated": "2026-08-19T16:43:27.192524+10:00",
+        "last_updated": "2026-08-19T20:43:26.860211+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -178315,7 +178315,7 @@
           "local_government_area": "Diamantina Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-08-19T16:43:28.046234+10:00",
+        "last_updated": "2026-08-19T20:43:27.568083+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -272230,7 +272230,7 @@
           "local_government_area": "Livingstone Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-08-19T16:43:26.667068+10:00",
+        "last_updated": "2026-08-19T20:43:26.09557+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -274249,7 +274249,7 @@
           "local_government_area": "Central Highlands Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-08-19T16:43:30.010283+10:00",
+        "last_updated": "2026-08-19T20:43:29.489554+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -322399,8 +322399,8 @@
           "direction": "Northeast bound",
           "towards": "The Water",
           "impact_type": "Lanes blocked",
-          "impact_subtype": "All lanes blocked",
-          "delay": "Delays expected"
+          "impact_subtype": "One lane blocked",
+          "delay": "No delays expected"
         },
         "duration": {
           "start": "2026-08-19T20:09:00+10:00",
@@ -322408,7 +322408,7 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "High",
+        "event_priority": "Medium",
         "description": "Just Past Martyn Street ",
         "advice": "Proceed with caution",
         "information": null,
@@ -322419,7 +322419,7 @@
           "local_government_area": "Cairns Regional",
           "district": "Far North"
         },
-        "last_updated": "2026-08-19T20:11:25.220244+10:00",
+        "last_updated": "2026-08-19T20:41:24.268825+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -322460,7 +322460,7 @@
         "event_subtype": "Adverse driving conditions",
         "event_due_to": null,
         "impact": {
-          "direction": "Northbound",
+          "direction": "Both directions",
           "towards": "",
           "impact_type": "N/A",
           "impact_subtype": null,
@@ -322483,14 +322483,14 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-08-19T20:24:33.12573+10:00",
+        "last_updated": "2026-08-19T20:45:40.873372+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-08-19T20:30:37.9610492+10:00",
+  "published": "2026-08-19T20:45:42.612939+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
